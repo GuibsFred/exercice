@@ -15,19 +15,15 @@ body
     justify-content: center;
     flex-direction: column;
     margin: auto;
-    width: 320px;
-    height: 500px;
-    background-color: white;
-    border-radius: 20px;
-    margin-top: 90px;
+    width: 370px;
 }
 img
 {
     width: 90%;
     border-radius: 20px;
-    margin-left: 15px;
-    margin-right: 15px;
-    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
 }
 h1
 {
