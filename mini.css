@@ -9,42 +9,4 @@ body
 {
     background-color: hsl(212, 45%, 89%);
 }
-#conteneur
-{
-    display: block;
-    justify-content: center;
-    flex-direction: column;
-    margin: auto;
-    width: 370px;
-}
-img
-{
-    width: 90%;
-    border-radius: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
-}
-h1
-{
-    font-size: 22px;
-    text-align: center;
-    font-weight: bold;
-    font: 'Outfit-VariableFont_wght', Arial, sans-serif;
-    margin-top: 25px;
-}
-p{
-    font-size: 15px;
-    font-style: 'Outfit-VariableFont_wght', Arial, sans-serif;
-    text-align: center;
-    margin-top: 25px;
-    text-decoration: 0.5;
-}
-#element2
-{
-    opacity: 0.8;
-}
-#element3
-{
-    opacity: 0.5;
-}
+
